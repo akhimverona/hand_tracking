@@ -1,6 +1,8 @@
-✋ Hand Gesture Message Display with MediaPipe and OpenCV
+# ✋ Hand Gesture Message Display with MediaPipe and OpenCV
 
 This Python project uses your webcam to detect hand gestures and display a message based on finger positions. It utilizes **MediaPipe** for hand tracking and **OpenCV** for real-time video processing.
+
+---
 
 ## ✅ Requirements
 
@@ -8,6 +10,9 @@ Install the following Python packages before running the script:
 
 ```bash
 pip install opencv-python mediapipe
+```
+
+---
 
 ## ▶️ How to Run the Program
 
@@ -15,12 +20,15 @@ pip install opencv-python mediapipe
 2. Navigate to the folder where the script is located.
 3. Run the script using Python:
 
-   ```bash
-   python handpaint.py
+```bash
+python handpaint.py
+```
+
+## ❌ How to Exit the Program
 
 To stop the webcam feed and close the window:
 
-Press the q key on your keyboard while the webcam window is active.
+Press the **`q`** key on your keyboard while the webcam window is active.
 
-vbnet
-Copy code
+---
+
